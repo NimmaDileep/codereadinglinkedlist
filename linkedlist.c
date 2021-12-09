@@ -3,7 +3,7 @@
 #include "linkedlist.h"
 
 struct node {
-  int data;
+  int data; //fnf wk fwkfwf
   struct node * next;
 };
 
